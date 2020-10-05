@@ -1,0 +1,250 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 ,UTV ACTION
+http://185.246.210.51:2200/R-EX/HINDI_UTV_ACTION-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,SONY MARATHI SD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7031.SonyMarathi.in_dvr.m3u8
+#EXTINF:-1 ,DISNEY HINDI
+http://185.59.222.236:2200/R-EX/HINDI_DISNEY_SD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,CARTOON NETWORK
+http://89.187.169.202:2200/R-EX/KIDS_CARTOON_NETWORK-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,UTV HD
+http://89.187.169.205:2200/R-EX/HINDI_UTV_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,STAR SPORTS HINDI SD
+http://195.181.172.83:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,STAR MAA HD
+http://185.59.222.234:2200/R-EX/TELUGU_STAR_MAA_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,SONY SAB SD
+http://62.210.82.206:25461/aVfhgpxPW1/j86QnUhtDD/34148?play_token=4eWiXAh12d&token=QhVcUhcJRggXUVFVAwNWBlMHBApRBFQHXFZRVl4GWgAAVQECVAUFBlBGGURBEkJRAFtpWgVEXlBRVQFZSkAXElxFa1oAQ14QA1IBUwNfEhhDQl9eBEReUlNUBFdVVFJQDhsWQw0FRggXVwRQC1USGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBRBgBDGhRQDhMKFxcdF1tEKyxDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XVQNQCAdDSw==
+#EXTINF:-1 ,BBC EARTH HD HINDI
+http://89.187.169.203:2200/R-EX/HINDI_BBC_EARTH_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,ZEE CINEMA
+http://62.210.82.206:25461/aVfhgpxPW1/j86QnUhtDD/34165?play_token=lySDcF8tZk&token=QhVcUhcJRggXVg1QU1YEV1MDVwFRUFUCXAYAAlYAAFdaAwEKB1ZUAQVGGURBEkJRAFtpWgVEXlBRVQNUSkAXElxFa1oAQ14QA1IBUwNfEhhDQl9eBEReUlNUBFReVldZDhsWQw0FRggXVgJSBVESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBSAgBDGhRQDhMKFxcdF1tEKyxDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XVAJSBQJDSw==
+#EXTINF:-1 ,SONY MAX SD
+https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 ,SONY WAH
+https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
+#EXTINF:-1 ,CINEPLEX HD
+http://185.246.210.56:2200/R-EX/HINDI_CINEPLEX_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,SONY SAB HD
+http://185.246.210.56:2200/R-EX/HINDI_SONY_SAB_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,SONY HD
+http://185.246.210.50:2200/R-EX/HINDI_SONY_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,COLORS HD
+http://185.246.210.50:2200/R-EX/HINDI_COLORS_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,STAR BHARAT HD
+http://89.187.169.206:2200/R-EX/HINDI_STAR_BHARAT_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 , STAR PLUS HD
+http://185.246.210.53:2200/R-EX/HINDI_STAR_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 , ANIMALPLANET HD
+http://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:-1 ,STAR GOLD SD
+http://89.187.169.202:2200/NL/stargold-uk/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,STAR SPORTS HINDI HD
+http://89.187.169.206:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,ZEE CINEMA HD 2
+http://t100v.com/play.php?token=null&id=14009
+#EXTINF:-1 ,MTV BEASTS HD
+http://89.187.169.203:2200/R-EX/HINDI_MTV_BEATS_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 , DISCOVERY WORLD HD
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+#EXTINF:-1 ,STAR GOLD SELECT HD
+http://185.246.210.56:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,MOVIES NOW HD
+http://185.246.210.50:2200/R-EX/HINDI_MOVIES_NOW_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,HBO HD
+http://89.187.169.203:2200/R-EX/ENGLISH_HBO_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,9XM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
+#EXTINF:-1 ,STAR MOVIES HD
+http://185.59.222.236:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,MNX HD
+http://89.187.169.201:2200/R-EX/HINDI_MNX_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,STARGOLD HD
+http://185.246.210.56:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,SONYPIX HD
+https://oreotv.us/live/sony/liv.m3u8?live=5813558986001&oauth=c3Q9MTYwMTI5ODY1Mn5leHA9MTYwMTI5OTY1Mn5hY2w9LypobWFjPThmNDQxYWFiZGZhN2IxNTQ2MTc4ZjUwM2Q3NDVmNDE1ODg1ZWNlMWQzYzU2NWYxZjA0MzUxZTE4MTUwZjUwMjE=
+#EXTINF:-1 ,SOMYMAX HD
+https://oreotv.us/live/sony/liv.m3u8?live=4867313348001&oauth=c3Q9MTYwMTI5OTA0N35leHA9MTYwMTMwMDA0N35hY2w9LypobWFjPTY0YTZjYzRiODlmY2JmMzNkMGRlNDIwZTAyNWM3ODE5ZGY5MTgwMDNiMzVkNThlMzNmMjZkMjE2ZDNmZTFkZWY=
+#EXTINF:-1 ,AND PICTURE HD
+http://185.246.210.56:2200/EX/andpictureshd-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,ZEE TV HD
+http://185.246.210.51:2200/R-EX/HINDI_ZEE_TV_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,ANDTVSD
+http://three.somee.com/web.php?e.m3u8&c=andtvsd&q=v1a1
+#EXTINF:-1,ZEE ANMOL
+http://three.somee.com/web.php?e.m3u8&c=zeeanmol&q=v1a1
+#EXTINF:-1,ZEE ANMOL CINEMA
+http://three.somee.com/web.php?e.m3u8&c=zanmolcnm&q=v1a1
+#EXTINF:-1,ZEE CINEMA HD
+http://185.246.210.56:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1,ZEE BIOSKOP
+http://three.somee.com/web.php?e.m3u8&c=bioskopidn&q=v1a1
+#EXTINF:-1,ZEE TELUGU HD
+http://three.somee.com/web.php?e.m3u8&c=zeeteleguhd&q=v1a1
+#EXTINF:-1,ZEE ACTION
+http://three.somee.com/web.php?e.m3u8&c=action&q=v1a1
+#EXTINF:-1,ZEE BOLLYWOOD
+http://three.somee.com/web.php?e.m3u8&c=classic&q=v1a1
+#EXTINF:-1,ZEE NEWS
+http://three.somee.com/web.php?e.m3u8&c=zeenews&q=v1a1
+#EXTINF:-1,COVID 19
+http://three.somee.com/web.php?e.m3u8&c=covid19&q=v1a1
+#EXTINF:-1,ZING
+http://three.somee.com/web.php?e.m3u8&c=zing&q=v1a1
+#EXTINF:-1,ZING USA
+http://three.somee.com/web.php?e.m3u8&c=zingusa&q=v1a1
+#EXTINF:-1,ZEE HINDUSTAN
+http://three.somee.com/web.php?e.m3u8&c=hindustan&q=v1a1
+#EXTINF:-1,BIG MAGIC
+http://three.somee.com/web.php?e.m3u8&c=bigmagic&q=v1a1
+#EXTINF:-1,BIG GANGA
+http://three.somee.com/web.php?e.m3u8&c=bigganga&q=v1a1
+#EXTINF:-1,ZEE 24 GHANTA
+http://three.somee.com/web.php?e.m3u8&c=24ghanta&q=v1a1
+#EXTINF:-1,ZEE 24 TAAS
+http://three.somee.com/web.php?e.m3u8&c=24taas&q=v1a1
+#EXTINF:-1,ZEE 24 KALAK
+http://three.somee.com/web.php?e.m3u8&c=kalak&q=v1a1
+#EXTINF:-1,ZEE PUNJAB NEWS
+http://three.somee.com/web.php?e.m3u8&c=punjabi&q=v1a1
+#EXTINF:-1,ZEE TAMIL
+http://three.somee.com/web.php?e.m3u8&c=zkannadahd&q=v1a1
+#EXTINF:-1,ZEE KERELAM
+http://three.somee.com/web.php?e.m3u8&c=livingfoodzhd&q=v1a1
+#EXTINF:-1,LIVING FOODZ
+http://three.somee.com/web.php?e.m3u8&c=livingfoodz&q=v1a1
+#EXTINF:-1,ZEE PUNJABI
+http://three.somee.com/web.php?e.m3u8&c=zeepunjabi&q=v1a1
+#EXTINF:-1,ZEE CINEMA UK
+http://three.somee.com/web.php?e.m3u8&c=cinemauk
+#EXTINF:-1,ZEE CINEMA USA
+http://three.somee.com/web.php?e.m3u8&c=cinemausa
+#EXTINF:-1,ZEE YUVA
+http://three.somee.com/web.php?e.m3u8e.m3u8&c=out/v1/8cb6a17f49784fda88939f24b083af45/
+#EXTINF:-1,ZEE KIDS
+http://three.somee.com/web.php?e.m3u8&c=out/v1/9b05285c38c54549a5afd04473bdd65c/&q=v1a1
+#EXTINF:-1,ZEE TV
+out/v1/ea6fe7c79c6f494792e1ee846b4a5259/
+#EXTINF:-1,ZEE THIRAI
+http://three.somee.com/web.php?e.m3u8&c=out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/&q=v1a1
+#EXTINF:-1,ZEE PUNJABI
+http://three.somee.com/web.php?e.m3u8&c=zeepunjabi
+#EXTINF:-1,ZEE TELEGU
+https://zeelive.akamaized.net/hls/live/2018727/zee_telugu/master.m3u8?hdnts=st=1597421637~exp=1597424637~acl=/*~hmac=73df8e01dc78ab106827eea6f7397eef2e80392e3b59ff33eec354a8defb9c2f
+#EXTINF:-1,ZEE TAMIL 2
+out/v1/d6f47c41936a41ac958254ab9cfc2d2f/
+#EXTINF:-1,ZEE TALKIES
+http://three.somee.com/web.php?e.m3u8&c=zeetalkies
+#EXTINF:-1,ZEE SARTHAK
+http://three.somee.com/web.php?e.m3u8&c=sarthaktv
+#EXTINF:-1,ZEE KALINGA
+http://three.somee.com/web.php?e.m3u8&c=kalinga
+#EXTINF:-1,ZEE RAJASTHAN NEWS
+http://three.somee.com/web.php?e.m3u8&c=rajasthan&q=v1a1
+#EXTINF:-1,ZEE SALAAM
+http://three.somee.com/web.php?e.m3u8&c=zeesalaam&q=v1a1
+#EXTINF:-1,ZEE BUSINESS
+http://three.somee.com/web.php?e.m3u8&c=zeebusiness
+#EXTINF:-1,ZEE ETC
+http://three.somee.com/web.php?e.m3u8&c=etc
+#EXTINF:-1,ZEE CAFE
+http://three.somee.com/web.php?e.m3u8&c=zeecafesd
+#EXTINF:-1,ZEE CAFE HD
+http://three.somee.com/web.php?e.m3u8&c=zeecafehd&q=v1a1
+#EXTINF:-1,AND FLIX
+http://three.somee.com/web.php?e.m3u8&c=andflix
+#EXTINF:-1,AND FLIX HD
+http://89.187.169.206:2200/R-EX/HINDI_AND_FLIX_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1,AND PRIVE
+http://three.somee.com/web.php?e.m3u8&c=andprivehd
+#EXTINF:-1,ZEE NEWS MP CG
+http://three.somee.com/web.php?e.m3u8&c=newsmpcg
+#EXTINF:-1,ZEE NEWS UP UK
+http://three.somee.com/web.php?e.m3u8&c=zeenewsupuk
+#EXTINF:-1,ZEE PICCHAR
+http://three.somee.com/web.php?e.m3u8&c=out/v1/67ae07c9f509407f9fc328e586b3bd02/&q=v1a1
+#EXTINF:-1,ZEE BANGLA HD
+http://three.somee.com/web.php?e.m3u8&c=zeebanglahd
+#EXTINF:-1,ZEE MARATHI HD
+http://three.somee.com/web.php?e.m3u8&c=out/v1/30bfd698af924d4abce147906278419c/&q=v1a1
+#EXTINF:-1,ZEE MARATHI
+http://three.somee.com/web.php?e.m3u8&c=zmarathisd
+#EXTINF:-1,ZEE KANNADA
+http://three.somee.com/web.php?c=out/v1/bbdf5ccb4a5f48c8911605cb5440598c/&e.m3u8
+#EXTINF:-1,ZEE CINEMALU
+http://three.somee.com/web.php?e.m3u8&c=zcinemalusd
+#EXTINF:-1,ZEE BANGLA CINEMA
+http://three.somee.com/web.php?e.m3u8&c=zbanglacnm
+#EXTINF:-1,ZEE BISKOPE
+http://three.somee.com/web.php?e.m3u8&c=zbiskope
+#EXTINF:-1,ZEE BIHAR JHARKHAND
+http://three.somee.com/web.php?e.m3u8&c=biharjharkh
+#EXTINF:-1,9X JHAKAAS
+http://three.somee.com/web.php?e.m3u8&c=out/v1/7c652edb67ba4fcba361632f4b88f5f0/&q=v1a1
+#EXTINF:-1,AND EXPLORE HD
+out/v1/525714a3beef4b6a8eac1ca96ffd8f88/&q=v1a1
+#EXTINF:-1,9X JALWA
+out/v1/b7afb3da97a74d14b3b07b93fd5f48cc/&q=v1a1
+#EXTINF:-1,9X TASHAN
+out/v1/03022bcf25704dc4a204caad37d256e2/&q=v1a1
+#EXTINF:-1,9XM
+http://three.somee.com/web.php?e.m3u8&c=out/v1/716855b8206b4d20a05850628a90feca/&q=v1a1
+#EXTINF:-1,AAJTAK
+http://three.somee.com/web.php?c=out/v1/9bef4425a4cd4bd7acf3242a3156162d/&s.m3u8
+#EXTINF:-1,AWAKANING
+http://three.somee.com/web.php?e.m3u8&c=out/v1/c829ff9eefa24b808e638121ee694e92/
+#EXTINF:-1,BOOGLE BOLLYWOOD
+http://three.somee.com/web.php?c=out/v1/581a1234e00a444db4e6aae80e505872/&e.m3u8&I=3
+#EXTINF:-1,CHANDRIKA TV
+http://three.somee.com/web.php?c=out/v1/1517ec09318443d79185a92fd313b4d0/&e.m3u8&q=v1a1
+#EXTINF:-1,DD BANGLA
+http://three.somee.com/web.php?c=out/v1/2bd41787f3c54bbcbf92ba54190d9e40/&e.m3u8
+#EXTINF:-1,DD CHANDANA
+http://three.somee.com/web.php?c=out/v1/41d8dc739ff44e79808b19f4caef5f82/&e.m3u8
+#EXTINF:-1,DD NEWS
+http://three.somee.com/web.php?c=ddnews&e.m3u8
+#EXTINF:-1,DD BIHAR
+http://three.somee.com/web.php?c=out/v1/c35546e8600541d38d0b03b18f9a2d6d/&e.m3u8
+#EXTINF:-1,DD URDU
+http://three.somee.com/web.php?c=out/v1/28e312160c0841f6ae9515ab0c2fe867/&e=.m3u8&q=v1a1
+#EXTINF:-1,DD SAHYADRI
+http://three.somee.com/web.php?c=out/v1/7716224c7ffd42b49751bb4e4941353a/&e.m3u8&a=v1a1
+#EXTINF:-1,DD INDIA
+http://three.somee.com/web.php?c=out/v1/2ba69aabf6b24031bce0d70ecaa675e5/&e.m3u8&q=v1a1
+#EXTINF:-1,DD BHARATI
+http://three.somee.com/web.php?c=out/v1/03d04d1461114e9083d382ab0054ac2c/&e.m3u8&q=v1a1
+#EXTINF:-1,DD KISAN
+http://three.somee.com/web.php?c=out/v1/a4a58b7349004922886341a4405242d2/&e.m3u8&q=v1a1
+#EXTINF:-1,DD GIRNAR
+http://three.somee.com/web.php?c=out/v1/80cf41be5f8d4bd2a9d34c33911fbfd2/&e.m3u8&I=2
+#EXTINF:-1,DD MP
+out/v1/4e11869157864022a5981d4bd0182d3a/&e.m3u8&I=2
+#EXTINF:-1,DD UP
+out/v1/7564b38cfaad4d72b8b78514b6727073/&e.m3u8&I=2
+#EXTINF:-1,DD NATIONAL HD
+out/v1/061be0ece7a849939ac2d9031f8fc532/&e.m3u8&I=2
+#EXTINF:-1,DD MALAYALAM
+out/v1/50ca90ede1dc421ca67fe1392721587f/&e.m3u8&I=2
+#EXTINF:-1,DD ODIA
+out/v1/2521f4e97c474e5fa5844365c5afab4a/&e.m3u8&I=2
+#EXTINF:-1,DD PODHIGAI
+http://three.somee.com/web.php?c=out/v1/ebd010e02926495ca566c4b1810eb18c/&e.m3u8&q=v1a1
+#EXTINF:-1,DD PUNJABI
+http://three.somee.com/web.php?e.m3u8&c=out/v1/cb5ed335638a4363905eb459ae44e5fb/&q=v1a1
+#EXTINF:-1,DD RAJASTHAN
+http://three.somee.com/web.php?c=out/v1/fe6849f5791346d4b159bf42ace1766f/&e.m3u8&I=2
+#EXTINF:-1,DD YADAGIRI
+http://three.somee.com/web.php?c=out/v1/1066d6a623184be8bce34a25b7641bec/&e m3u8&I=2
+#EXTINF:-1,DIVYA TV
+http://three.somee.com/web.php?c=out/v1/a76496e20f1d472f91de44fd622b7289/&e.m3u8&I=2
+#EXTINF:-1,E24
+out/v1/78239452a9944713bf0dfd0946a55ad5/&e.m3u8&I=2
+#EXTINF:-1,EPIC TV
+http://three.somee.com/web.php?c=out/v1/71d7807e101d470fbac38441de9c674e/&e.m3u8&I=5
+#EXTINF:-1,IN
+http://three.somee.com/web.php?c=out/v1/6b6be68f21a24c7b9175406b7498df5a/&e.m3u8&q=v2a1
+#EXTINF:-1,IDVO
+http://three.somee.com/web.php?e.m3u8&c=indianewsgujarat
